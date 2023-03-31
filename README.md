@@ -7,7 +7,7 @@ This task is set up into two task
 
 # Task 1 - Dataset ,Workflow , Quantification method
 
-Dataset - The dataset is taken from Project TCGA-BRCA  , named Breast Invasive Carcinoma with data categories as 
+Dataset - The dataset (coverted to csv-- 2k samples) is taken from Project TCGA-BRCA  , named Breast Invasive Carcinoma with data categories as 
 Sequencing Reads ,Transcriptome Profiling ,Simple Nucleotide Variation ,Copy Number Variation ,DNA Methylation ,Clinical ,Biospecimen as data categories 0 to 8 rank in the columns 
 
 Workflow - RNA sequencing , Methylation Array Harmonization Workflow 
